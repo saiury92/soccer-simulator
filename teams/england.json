@@ -1,0 +1,181 @@
+{
+  "name": "England",
+  "players": [
+    {
+      "name": "Jordan Pickford",
+      "shortName": "Pickford",
+      "position": "GK",
+      "skill": {
+        "div": "81",
+        "han": "75",
+        "pos": "76",
+        "ref": "85",
+        "spd": "53",
+        "kic": "87"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Luke Shaw",
+      "shortName": "Shaw",
+      "position": "LB",
+      "skill": {
+        "pac": "79",
+        "pas": "78",
+        "def": "81",
+        "sho": "53",
+        "dri": "80",
+        "phy": "79"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Harry Maguire",
+      "shortName": "Maguire",
+      "position": "CB",
+      "skill": {
+        "pac": "50",
+        "pas": "69",
+        "def": "82",
+        "sho": "53",
+        "dri": "71",
+        "phy": "87"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "John Stones",
+      "shortName": "Stones",
+      "position": "CB",
+      "skill": {
+        "pac": "69",
+        "pas": "70",
+        "def": "83",
+        "sho": "51",
+        "dri": "75",
+        "phy": "78"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Trent Alexander-Arnold",
+      "shortName": "Arnold",
+      "position": "RB",
+      "skill": {
+        "pac": "78",
+        "pas": "87",
+        "def": "80",
+        "sho": "68",
+        "dri": "80",
+        "phy": "71"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Marcus Rashford",
+      "shortName": "Rashford",
+      "position": "LM",
+      "skill": {
+        "pac": "91",
+        "pas": "80",
+        "def": "43",
+        "sho": "85",
+        "dri": "86",
+        "phy": "78"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Mason Mount",
+      "shortName": "Mount",
+      "position": "CM",
+      "skill": {
+        "pac": "74",
+        "pas": "83",
+        "def": "54",
+        "sho": "78",
+        "dri": "81",
+        "phy": "62"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Declan Rice",
+      "shortName": "Rice",
+      "position": "CM",
+      "skill": {
+        "pac": "67",
+        "pas": "69",
+        "def": "80",
+        "sho": "52",
+        "dri": "73",
+        "phy": "79"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Jadon Sancho",
+      "shortName": "Sancho",
+      "position": "RM",
+      "skill": {
+        "pac": "83",
+        "pas": "82",
+        "def": "37",
+        "sho": "76",
+        "dri": "91",
+        "phy": "64"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Harry Kane",
+      "shortName": "Kane",
+      "position": "ST",
+      "skill": {
+        "pac": "69",
+        "pas": "82",
+        "def": "51",
+        "sho": "91",
+        "dri": "82",
+        "phy": "83"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Jamie Vardy",
+      "shortName": "Vardy",
+      "position": "ST",
+      "skill": {
+        "pac": "86",
+        "pas": "68",
+        "def": "56",
+        "sho": "85",
+        "dri": "80",
+        "phy": "75"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    }
+  ]
+}

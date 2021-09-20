@@ -1,0 +1,181 @@
+{
+  "name": "Italy",
+  "players": [
+    {
+      "name": "Gianluigi Donnarumma",
+      "shortName": "Donnarumma",
+      "position": "GK",
+      "skill": {
+        "div": "89",
+        "han": "81",
+        "pos": "84",
+        "ref": "89",
+        "spd": "50",
+        "kic": "76"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Leonardo Spinazzola",
+      "shortName": "Spinazzola",
+      "position": "LB",
+      "skill": {
+        "pac": "83",
+        "pas": "75",
+        "def": "76",
+        "sho": "64",
+        "dri": "80",
+        "phy": "72"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Giorgio Chiellini",
+      "shortName": "Chiellini",
+      "position": "CB",
+      "skill": {
+        "pac": "66",
+        "pas": "58",
+        "def": "89",
+        "sho": "46",
+        "dri": "62",
+        "phy": "79"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Leonardo Bonucci",
+      "shortName": "Bonucci",
+      "position": "CB",
+      "skill": {
+        "pac": "60",
+        "pas": "70",
+        "def": "85",
+        "sho": "58",
+        "dri": "71",
+        "phy": "77"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Alessandro Florenzi",
+      "shortName": "Florenzi",
+      "position": "RB",
+      "skill": {
+        "pac": "77",
+        "pas": "76",
+        "def": "76",
+        "sho": "76",
+        "dri": "78",
+        "phy": "71"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Federico Chiesa",
+      "shortName": "Chiesa",
+      "position": "LM",
+      "skill": {
+        "pac": "87",
+        "pas": "73",
+        "def": "44",
+        "sho": "76",
+        "dri": "81",
+        "phy": "66"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Marco Verratti",
+      "shortName": "Verratti",
+      "position": "CM",
+      "skill": {
+        "pac": "64",
+        "pas": "85",
+        "def": "79",
+        "sho": "60",
+        "dri": "90",
+        "phy": "67"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Nicolò Barella",
+      "shortName": "Barella",
+      "position": "CM",
+      "skill": {
+        "pac": "80",
+        "pas": "80",
+        "def": "77",
+        "sho": "71",
+        "dri": "84",
+        "phy": "76"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Federico Bernardeschi",
+      "shortName": "Bernardeschi",
+      "position": "RM",
+      "skill": {
+        "pac": "79",
+        "pas": "80",
+        "def": "59",
+        "sho": "74",
+        "dri": "83",
+        "phy": "66"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Ciro Immobile",
+      "shortName": "Immobile",
+      "position": "ST",
+      "skill": {
+        "pac": "84",
+        "pas": "67",
+        "def": "39",
+        "sho": "88",
+        "dri": "83",
+        "phy": "77"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    },
+    {
+      "name": "Lorenzo Insigne",
+      "shortName": "Insigne",
+      "position": "ST",
+      "skill": {
+        "pac": "88",
+        "pas": "83",
+        "def": "36",
+        "sho": "78",
+        "dri": "91",
+        "phy": "44"
+      },
+      "fitness": 100,
+      "morale": "",
+      "injury": false
+    }
+  ]
+}
