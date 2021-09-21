@@ -104,8 +104,9 @@ function setPositions() {
         }
       }
 
+      var ballPixels = ballCoordinatesToPixels(...result.ball.position, "top")
       ctx.beginPath();
-      ctx.arc(300, 35, 15, 0, Math.PI * 2);
+      ctx.arc(...ballPixels, 15, 0, Math.PI * 2);
       ctx.fill();
 
       document.getElementById("result").innerHTML = result.kickOffTeam.name + ": " + result.kickOffTeamStatistics.goals + " - " + result.secondTeamStatistics.goals + " :" + result.secondTeam.name;
@@ -113,6 +114,24 @@ function setPositions() {
   };
   http.open("GET", "/getstartPOS", true);
   http.send();
+}
+
+function ballCoordinatesToPixels(x, y, side) {
+  if (side === "top") {
+    switch (y) {
+      case 0:
+        return [300, 35]
+      default:
+        return [15 + x * 15 + x * 180 + 90, 100 + 250 * (y-1) + 25]
+    }
+  } else {
+    switch (y) {
+      case 4:
+        return [300, 765]
+      default:
+        return [15 + x * 15 + x * 180 + 90, 150 + 250 * (y-1) + 25]
+    }
+  }
 }
 
 function setupPitch() {
